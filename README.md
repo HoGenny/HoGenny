@@ -1,16 +1,40 @@
-## Hi there 👋
+# HoGeeny
 
-<!--
-**HoGenny/HoGenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 Hello! I'm HoGeeny.
 
-Here are some ideas to get you started:
+I'm currently a student in **Computer Science and Engineering at Gachon University**, with a strong passion for **Python**. 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**👨‍💻 My goal is to become an AI developer.** 🤖
+
+### 📬 Contact
+
+* Email: tyui3024@icloud.com
+
+### 🏫 Education
+
+* Gachon University - Computer Science and Engineering
+
+### 💻 Tech Stack
+
+* Python
+
+### ✨ Interests
+
+* Artificial intelligence
+* Machine learning
+* Deep learning
+* Natural language processing
+
+### 🌱 Currently Learning
+
+* Python fundamentals
+* Data analysis libraries (Pandas, NumPy)
+* Machine learning algorithms
+
+### 🚀  Future Learning Goals
+
+* Deep learning frameworks (TensorFlow, PyTorch)
+* Computer vision
+* Natural language processing
+
+### 🤝 Let's grow together!
