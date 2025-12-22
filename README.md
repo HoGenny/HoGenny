@@ -1,4 +1,4 @@
-# 👋 안녕하세요! 신호진(HoGeeny)입니다.
+# 👋 안녕하세요! 신호진입니다.
 
 **"이론을 넘어, 실제 동작하는 서비스를 만드는 개발자"**
 
@@ -29,7 +29,7 @@
 ### 💻 **Projects**
 
 #### 🧠 **NLP & AI**
-* **BERT 기반 한국어 질의응답(QA) 시스템** (2024.05 ~ 2024.06)
+* **BERT 기반 한국어 질의응답(QA) 시스템** (2025.05 ~ 2025.06)
   * **Role**: 데이터 전처리, 모델 파인튜닝, 웹 데모 구현
   * **Tech**: Python, PyTorch, Hugging Face (Transformers), Gradio
   * **Description**: KLUE-MRC 데이터셋을 활용해 `kcbert-base` 모델을 파인튜닝. 긴 지문 처리를 위한 Sliding Window 기법 적용 및 Gradio 웹 인터페이스 구현.
@@ -64,4 +64,4 @@
 ### 📫 **Contact**
 
 * **Email**: tyui3024@icloud.com
-* **Github**: [github.com/HoGeeny](https://github.com/HoGeeny)
+* **Github**: [github.com/HoGenny](https://github.com/HoGenny)
