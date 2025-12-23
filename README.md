@@ -57,25 +57,103 @@
 
 > “작동하는 서비스”를 목표로, **데이터/모델 → API → 배포/운영** 흐름을 끝까지 가져가는 경험을 쌓고 있습니다.
 
-<table>
+### 🧠 NLP & AI
+<!-- Card 1 -->
+<table width="100%">
 <tr>
-<td width="52%">
-  <h3>🧠 BERT 기반 한국어 질의응답(QA) 시스템</h3>
-  <p><b>기간</b> · 2025.05 ~ 2025.06</p>
-  <p><b>Role</b> · 데이터 전처리 · 파인튜닝 · 웹 데모</p>
-  <p><b>Tech</b> · Python · PyTorch · Transformers · Gradio</p>
-  <ul>
-    <li>KLUE-MRC 기반 <code>kcbert-base</code> 파인튜닝</li>
-    <li>긴 지문 처리용 <b>Sliding Window</b> 적용</li>
-    <li>즉시 테스트 가능한 <b>Gradio 데모</b> 구현</li>
-  </ul>
-</td>
-<td width="48%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoGenny&repo=university-nlp-final-project&theme=tokyonight&hide_border=true" />
-  <br/>
+<td>
+
+### BERT 기반 한국어 질의응답(QA) 시스템
+- **기간**: 2025.05 ~ 2025.06  
+- **Role**: 데이터 전처리 · 모델 파인튜닝 · 웹 데모 구현  
+- **Tech**: Python · PyTorch · Transformers · Gradio  
+- **Highlights**
+  - KLUE-MRC 기반 `kcbert-base` 파인튜닝
+  - 긴 지문 처리를 위한 **Sliding Window** 적용
+  - 즉시 테스트 가능한 **Gradio 데모** 구현
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HoGenny&repo=university-nlp-final-project&theme=tokyonight&hide_border=true" />
+</p>
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+### ☁️ Cloud & Web
+<!-- Card 2 -->
+<table width="100%">
+<tr>
+<td>
+
+### AWS Serverless AI 방명록
+- **기간**: 2025.11  
+- **Role**: 클라우드 아키텍처 설계 · 풀스택 개발  
+- **Tech**: AWS(Lambda, API Gateway, DynamoDB, S3, Comprehend) · Node.js  
+- **Highlights**
+  - 서버리스 아키텍처로 비용/운영 부담 최소화
+  - Comprehend 연동으로 **부정 텍스트 자동 필터링**
+  - API 중심 설계로 확장성 확보
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HoGenny&repo=university-cloudnative-final-project&theme=tokyonight&hide_border=true" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Card 3 -->
+<table width="100%">
+<tr>
+<td>
+
+### Polioo: 커스텀 포트폴리오 생성 플랫폼
+- **기간**: 2025.04 ~ 2025.05  
+- **Role**: 백엔드 개발 · 템플릿 엔진 구현  
+- **Tech**: Node.js · Express · MongoDB · AWS S3  
+- **Highlights**
+  - 사용자 입력 기반 **정적 HTML 자동 생성**
+  - S3 정적 호스팅으로 **즉시 배포 자동화**
+  - 포트폴리오 관리(목록/미리보기/편집/삭제)
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HoGenny&repo=polioo&theme=tokyonight&hide_border=true" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Card 4 -->
+<table align="center" width="100%">
+<tr>
+<td>
+
+### 🎮 Galaxy Defender: Infinite Stages
+- **기간**: 2025.12  
+- **Role**: 게임 로직 및 엔진 설계  
+- **Tech**: Java(Swing/AWT) · OOP  
+- **Highlights**
+  - 객체지향 설계 원칙(OOP) 기반 구조화
+  - 삼각함수 활용 **적 AI 패턴** 구현
+  - 파일 I/O 기반 **리더보드 시스템** 구현
+
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HoGenny&repo=javafinal-galaxy-defender&theme=tokyonight&hide_border=true" width="1200" />
+</p>
+
+</td>
+</tr>
+</table>
+
+
 
 
 ### 🧠 NLP & AI
