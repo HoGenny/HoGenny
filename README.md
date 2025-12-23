@@ -57,6 +57,27 @@
 
 > “작동하는 서비스”를 목표로, **데이터/모델 → API → 배포/운영** 흐름을 끝까지 가져가는 경험을 쌓고 있습니다.
 
+<table>
+<tr>
+<td width="52%">
+  <h3>🧠 BERT 기반 한국어 질의응답(QA) 시스템</h3>
+  <p><b>기간</b> · 2025.05 ~ 2025.06</p>
+  <p><b>Role</b> · 데이터 전처리 · 파인튜닝 · 웹 데모</p>
+  <p><b>Tech</b> · Python · PyTorch · Transformers · Gradio</p>
+  <ul>
+    <li>KLUE-MRC 기반 <code>kcbert-base</code> 파인튜닝</li>
+    <li>긴 지문 처리용 <b>Sliding Window</b> 적용</li>
+    <li>즉시 테스트 가능한 <b>Gradio 데모</b> 구현</li>
+  </ul>
+</td>
+<td width="48%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HoGenny&repo=university-nlp-final-project&theme=tokyonight&hide_border=true" />
+  <br/>
+</td>
+</tr>
+</table>
+
+
 ### 🧠 NLP & AI
 **BERT 기반 한국어 질의응답(QA) 시스템** *(2025.05 ~ 2025.06)*  
 - **Role**: 데이터 전처리, 모델 파인튜닝, 웹 데모 구현  
