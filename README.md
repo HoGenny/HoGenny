@@ -1,122 +1,378 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=215&section=header&text=HoGenny%20%F0%9F%91%8B&fontSize=46&fontAlignY=35&desc=%22%EC%9D%B4%EB%A1%A0%EC%9D%84%20%EB%84%98%EC%96%B4%2C%20%EC%8B%A4%EC%A0%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%22&descAlignY=60)
+# 👋 Hi, I'm HoGenny
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=AI%2FML+Engineer+in+Progress;Cloud-Native+Builder;Build+%E2%86%92+Ship+%E2%86%92+Iterate">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=780&lines=AI%2FML+Engineer+in+Progress;Cloud-Native+Builder;Build+%E2%86%92+Ship+%E2%86%92+Iterate" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=HoGenny%20%F0%9F%91%8B&fontSize=48&fontAlignY=35&desc=AI%20Researcher%20in%20Progress&descAlignY=60" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HoGenny">
+    <img src="https://img.shields.io/badge/GitHub-HoGenny-181717?style=flat-square&logo=github" />
   </a>
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Gachon%20University-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Research-Computer%20Vision-58A6FF?style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HoGenny&style=flat-square&color=2f81f7" alt="profile views" />
-  <img src="https://img.shields.io/badge/Location-Seongnam%2C%20KR-0ea5e9?style=flat-square" alt="location" />
-  <img src="https://img.shields.io/badge/Major-Computer%20Engineering-22c55e?style=flat-square" alt="major" />
-  <img src="https://img.shields.io/badge/Target-AI%2FML%20%26%20Cloud%20Native-f97316?style=flat-square" alt="target" />
+  <b>AI Researcher in Progress · Computer Vision · Medical AI</b>
 </p>
 
 ---
 
-## 👋 About Me
+## 🧑‍🔬 About Me
 
-안녕하세요, **신호진**입니다.  
-가천대학교에서 컴퓨터공학을 전공하며 **AI 모델링 → 서비스 구현 → 클라우드 배포**까지 전체 라이프사이클을 직접 만들어보는 것을 좋아합니다.
+안녕하세요, **신호진(HoGenny)**입니다.
 
-- 🔥 문제 해결을 위해 새로운 기술을 빠르게 학습하고 적용합니다.
-- 🧠 관심 분야: **NLP / LLM 응용**, **MLOps**, **Serverless & Cloud Native**
-- 🎯 Target  
-  - **AI/ML Engineer**: 최신 논문/아이디어를 구현하고 서비스에 적용  
-  - **Cloud Native Developer**: 서버리스/이벤트 기반 아키텍처로 효율적 인프라 구축
+가천대학교 컴퓨터공학과에서 공부하며
+**AI 모델을 이해하고, 연구 문제를 정의하고, 실제 시스템으로 구현하는 과정**에 관심을 가지고 있습니다.
+
+현재 **가천대학교 INES Lab AI Team**에서 학부연구생으로 활동하며
+**Medical AI와 Prosthetic Vision**을 중심으로 연구하고 있습니다.
+
+특히 제한된 시각 정보 환경에서 사용자가 **실제로 필요한 정보를 어떻게 인지할 수 있는가**에 관심이 있습니다.
+
+> **My research question**
+> *"In a limited prosthetic vision environment, what visual information should be preserved for functional perception?"*
+
+### 🎯 Research Interests
+
+* 🧠 Computer Vision
+* 👁️ Prosthetic Vision
+* 🏥 Medical AI
+* 🎯 Visual Information Prioritization
+* 🖼️ Image Representation & Simplification
+* 🤖 Deep Learning
+* 📊 Human-Centered AI
 
 ---
 
-## 🛠 Tech Stack
+## 🔬 Undergraduate Researcher
+
+### INES Lab · AI Team
+
+**Gachon University · Undergraduate Researcher**
+
+현재 연구의 핵심 관심사는 **제한된 시각 정보 환경에서 기능적 지각을 위해 어떤 정보를 보존해야 하는가**입니다.
+
+기존의 단순한 객체 검출이나 이미지 압축을 넘어,
+
+**Scene → Information Priority → Visual Simplification → Functional Perception**
+
+의 관점에서 시각 정보를 선택적으로 표현하는 방법을 연구하고 있습니다.
+
+### 🧠 Current Research
+
+**Priority-Aware Multi-Layer Visual Simplification for Prosthetic Vision**
+
+제한된 해상도와 정보량을 가진 prosthetic vision 환경에서
+모든 시각 정보를 동일하게 표현하는 대신 **과제와 문맥에 따라 중요한 정보를 우선적으로 보존**하는 접근을 연구하고 있습니다.
+
+#### Research Pipeline
+
+```text
+Input Image
+     │
+     ▼
+Object Detection ──────┐
+                       │
+Depth Estimation ──────┤
+                       ▼
+              Information Priority
+                       │
+                       ▼
+             Multi-Layer Representation
+                       │
+             ┌─────────┼─────────┐
+             ▼         ▼         ▼
+          Primary   Secondary   Structural
+           Object    Objects      Edges
+             │         │         │
+             └─────────┼─────────┘
+                       ▼
+             Prosthetic Vision
+               Representation
+                       │
+                       ▼
+             Functional Perception
+```
+
+### 🔍 Research Focus
+
+* 제한된 시각 정보에서 **중요 정보의 우선순위 결정**
+* Object Detection 기반 scene understanding
+* Depth 정보를 활용한 spatial priority
+* Primary / Secondary / Structural information의 계층적 표현
+* 제한된 pixel budget에서 정보량 제어
+* Human labeling 및 weak supervision
+* Human–AI agreement 분석
+* 행동 실험을 통한 perceptual validation
+* 다양한 환경 및 해상도에서의 일반화
+
+### 🧪 Research Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,pytorch,aws,nodejs,express,mongodb,dynamodb,linux,git,github,docker&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv&perline=6" />
 </p>
 
-**Languages**  
-- Python / Java / JavaScript
+**Models & Frameworks**
 
-**AI & Data**  
-- PyTorch, Hugging Face(Transformers), Pandas
+* PyTorch
+* YOLO / SSD
+* MiDaS
+* Vision Transformer
+* Swin Transformer
+* Diffusion Models
+* Hugging Face Transformers
 
-**Backend & Cloud**  
-- Node.js, Express  
-- AWS Lambda, API Gateway, DynamoDB, S3, Comprehend  
-- MongoDB
+**Datasets & Simulation**
 
-**Tools**  
-- Git, GitHub, Gradio
+* COCO
+* SANPO
+* ProcTHOR
+
+**Evaluation**
+
+* Object Preservation
+* Primary Visibility
+* Activated Pixel Ratio
+* Edge Density
+* Inference Time
+* Human–AI Agreement
+* Behavioral Evaluation
 
 ---
 
-## 💻 Projects
+## 📚 Research & Study
 
-> “작동하는 서비스”를 목표로, **데이터/모델 → API → 배포/운영** 흐름을 끝까지 가져가는 경험을 쌓고 있습니다.
+현재 연구를 진행하면서 단순히 모델을 사용하는 것보다
+**논문의 아이디어를 이해하고 직접 구현하는 것**을 중요하게 생각하고 있습니다.
 
-### 🧠 NLP & AI
-**BERT 기반 한국어 질의응답(QA) 시스템** *(2025.05 ~ 2025.06)*  
-- **Role**: 데이터 전처리, 모델 파인튜닝, 웹 데모 구현  
-- **Tech**: Python, PyTorch, Hugging Face, Gradio  
-- **Highlights**
-  - KLUE-MRC 기반 `kcbert-base` 파인튜닝
-  - 긴 지문 처리를 위한 **Sliding Window** 적용
-  - 즉시 테스트 가능한 **Gradio 데모** 제공
+### Topics I'm Studying
 
-### ☁️ Cloud & Web
-**AWS Serverless AI 방명록** *(2025.11)*  
-- **Role**: 클라우드 아키텍처 설계, 풀스택 개발  
-- **Tech**: AWS(Lambda, API Gateway, DynamoDB, S3, Comprehend), Node.js  
-- **Highlights**
-  - 서버리스 아키텍처로 비용/운영 부담 최소화
-  - Amazon Comprehend 연동으로 **부정 텍스트 자동 필터링**
+```text
+Deep Learning
+├── CNN
+├── Object Detection
+├── Vision Transformer
+├── Diffusion Models
+└── Representation Learning
 
-**Polioo: 커스텀 포트폴리오 생성 플랫폼** *(2025.04 ~ 2025.05)*  
-- **Role**: 백엔드 개발, 템플릿 엔진 구현  
-- **Tech**: Node.js, Express, AWS S3, MongoDB  
-- **Highlights**
-  - 사용자 입력 기반 **정적 HTML 자동 생성**
-  - S3 정적 호스팅으로 **즉시 배포 자동화**
+Computer Vision
+├── Scene Understanding
+├── Object Detection
+├── Depth Estimation
+├── Image Representation
+└── Visual Perception
 
-### 🎮 Game Development
-**Galaxy Defender: Infinite Stages** *(2025.12)*  
-- **Role**: 게임 로직 및 엔진 설계  
-- **Tech**: Java(Swing, AWT), OOP  
-- **Highlights**
-  - OOP 기반 구조 설계
-  - 삼각함수 기반 적 AI 패턴
-  - 파일 I/O 리더보드 시스템
+Medical AI
+├── Prosthetic Vision
+├── Human-Centered AI
+└── Assistive Technology
+
+Research Methodology
+├── Experimental Design
+├── Human Evaluation
+├── Statistical Analysis
+└── Reproducible Research
+```
+
+---
+
+## 🛠️ Technical Skills
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch&perline=8" />
+</p>
+
+* Python / PyTorch
+* Hugging Face Transformers
+* Computer Vision
+* Object Detection
+* Depth Estimation
+* Transformer Architecture
+* Diffusion Models
+* Data Processing & Evaluation
+
+### Backend / Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,aws,mongodb,dynamodb,s3,linux&perline=8" />
+</p>
+
+* Node.js / Express
+* AWS Lambda
+* API Gateway
+* DynamoDB
+* S3
+* MongoDB
+* Linux
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker&perline=8" />
+</p>
+
+* Git / GitHub
+* Docker
+* Gradio
+* Jupyter
+* VS Code
+
+---
+
+## 💻 Selected Projects
+
+### 🧠 BERT-based Korean Question Answering
+
+**2025.05 – 2025.06**
+
+한국어 Machine Reading Comprehension 기반 질의응답 시스템
+
+**Role**
+
+* Dataset preprocessing
+* Model fine-tuning
+* Inference pipeline
+* Web demo implementation
+
+**Tech**
+`Python` `PyTorch` `Hugging Face` `Gradio`
+
+**Highlights**
+
+* KLUE-MRC 기반 `kcbert-base` fine-tuning
+* 긴 문서 처리를 위한 **Sliding Window** 적용
+* Gradio 기반 interactive QA demo 구현
+
+---
+
+### 👁️ Prosthetic Vision Research
+
+**Undergraduate Research · INES Lab**
+
+제한된 시각 환경에서 기능적 지각을 위한
+**Priority-Aware Multi-Layer Visual Simplification** 연구
+
+**Tech**
+
+`PyTorch` `Computer Vision` `YOLO` `SSD` `MiDaS` `COCO` `ProcTHOR` `SANPO`
+
+**Highlights**
+
+* Scene-level visual information prioritization
+* Depth-aware information selection
+* Multi-layer visual representation
+* Limited pixel budget optimization
+* Human labeling & agreement analysis
+* Behavioral evaluation design
+
+> **Research in progress**
+
+---
+
+### ☁️ AWS Serverless AI Guestbook
+
+**2025.11**
+
+AWS Serverless Architecture를 활용한 AI 방명록 서비스
+
+**Role**
+
+* Cloud architecture
+* Backend development
+* AI service integration
+
+**Tech**
+
+`AWS Lambda` `API Gateway` `DynamoDB` `S3` `Comprehend` `Node.js`
+
+**Highlights**
+
+* Serverless architecture 설계
+* Amazon Comprehend 기반 부정 텍스트 필터링
+* API → Database → AI service 전체 pipeline 구현
+
+---
+
+### 🌐 Polioo — Portfolio Generation Platform
+
+**2025.04 – 2025.05**
+
+사용자 입력을 기반으로 개인 포트폴리오 페이지를 자동 생성하는 플랫폼
+
+**Role**
+
+* Backend development
+* Template engine
+
+**Tech**
+
+`Node.js` `Express` `MongoDB` `AWS S3`
+
+**Highlights**
+
+* 사용자 입력 기반 정적 HTML 자동 생성
+* S3 Static Hosting을 활용한 배포
+* Backend → Storage → Deployment workflow 구현
 
 ---
 
 ## 🏆 Achievements
 
-<div align="left">
-  
-> **제6회 대한민국 신직업·미래직업 아이디어 공모전** *(2025.08)*
-> > 💡 **주제**: 건물 에너지 효율화 컨설턴트 (기후위기 대응 융합 전문가 제안)  
-> 📌 ZEB 의무화 정책 및 시장 분석을 기반으로 직무 프로세스를 구체적으로 설계하여 제안했습니다.
+### 제6회 대한민국 신직업·미래직업 아이디어 공모전
 
-</div>
+**2025.08**
+
+**건물 에너지 효율화 컨설턴트**
+
+ZEB 의무화 정책 및 시장 분석을 기반으로
+기후위기 대응을 위한 융합형 미래 직업을 제안했습니다.
 
 ---
 
-## 🌱 GitHub Statistics
+## 📖 What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HoGenny&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoGenny&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+```text
+NOW
+ │
+ ├─ 🔬 Prosthetic Vision Research
+ │
+ ├─ 🧠 Computer Vision & Deep Learning
+ │
+ ├─ 📄 Reading & Reproducing Research Papers
+ │
+ ├─ 🧪 Designing Human-centered Experiments
+ │
+ └─ 🎓 Preparing for Graduate Research
+```
+
+### Current Goal
+
+> **From implementing models to conducting research.**
+
+단순히 최신 AI 모델을 사용하는 개발자가 아니라,
+
+**문제를 정의하고 → 가설을 세우고 → 모델을 설계하고 → 실험하고 → 결과를 검증하는**
+
+연구자로 성장하는 것을 목표로 하고 있습니다.
 
 ---
 
 ## 📫 Contact
 
-<div align="center">
+<p align="center">
   <a href="mailto:tyui3024@icloud.com">
-    <img src="https://img.shields.io/badge/Email-tyui3024%40icloud.com-31363F?style=for-the-badge&logo=icloud&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-tyui3024%40icloud.com-31363F?style=for-the-badge&logo=icloud&logoColor=white" />
   </a>
   <a href="https://github.com/HoGenny">
-    <img src="https://img.shields.io/badge/GitHub-HoGenny-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-HoGenny-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
+
+---
+
+<p align="center">
+  <i>Research · Build · Validate · Iterate</i>
+</p>
